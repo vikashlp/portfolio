@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.17d6e015.css",
-    "main.js": "/portfolio/static/js/main.d77d3ff5.js",
+    "main.css": "/portfolio/static/css/main.44a1f67f.css",
+    "main.js": "/portfolio/static/js/main.1569c09e.js",
     "static/media/Psychology.jpg": "/portfolio/static/media/Psychology.5932693e9c0c2805cfcc.jpg",
     "static/media/Writing.jpg": "/portfolio/static/media/Writing.8a81db21d172f0a4ab99.jpg",
     "static/media/Reading.jpg": "/portfolio/static/media/Reading.9d724edb4168e29d3691.jpg",
@@ -12,11 +12,11 @@
     "static/media/project8.jpg": "/portfolio/static/media/project8.7da6501bc1ca096c2829.jpg",
     "static/media/project7.jpg": "/portfolio/static/media/project7.a6f0621da0b11b3ad74f.jpg",
     "index.html": "/portfolio/index.html",
-    "main.17d6e015.css.map": "/portfolio/static/css/main.17d6e015.css.map",
-    "main.d77d3ff5.js.map": "/portfolio/static/js/main.d77d3ff5.js.map"
+    "main.44a1f67f.css.map": "/portfolio/static/css/main.44a1f67f.css.map",
+    "main.1569c09e.js.map": "/portfolio/static/js/main.1569c09e.js.map"
   },
   "entrypoints": [
-    "static/css/main.17d6e015.css",
-    "static/js/main.d77d3ff5.js"
+    "static/css/main.44a1f67f.css",
+    "static/js/main.1569c09e.js"
   ]
 }
