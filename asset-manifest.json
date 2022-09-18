@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44a1f67f.css",
-    "main.js": "/portfolio/static/js/main.1569c09e.js",
+    "main.js": "/portfolio/static/js/main.acee2dea.js",
     "static/media/Psychology.jpg": "/portfolio/static/media/Psychology.5932693e9c0c2805cfcc.jpg",
     "static/media/Writing.jpg": "/portfolio/static/media/Writing.8a81db21d172f0a4ab99.jpg",
     "static/media/Reading.jpg": "/portfolio/static/media/Reading.9d724edb4168e29d3691.jpg",
@@ -13,10 +13,10 @@
     "static/media/project7.jpg": "/portfolio/static/media/project7.a6f0621da0b11b3ad74f.jpg",
     "index.html": "/portfolio/index.html",
     "main.44a1f67f.css.map": "/portfolio/static/css/main.44a1f67f.css.map",
-    "main.1569c09e.js.map": "/portfolio/static/js/main.1569c09e.js.map"
+    "main.acee2dea.js.map": "/portfolio/static/js/main.acee2dea.js.map"
   },
   "entrypoints": [
     "static/css/main.44a1f67f.css",
-    "static/js/main.1569c09e.js"
+    "static/js/main.acee2dea.js"
   ]
 }
